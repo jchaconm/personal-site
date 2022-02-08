@@ -1,50 +1,45 @@
-+++
+---
+ # An instance of the Featurette widget.
+ # Documentation: https://wowchemy.com/docs/page-builder/
+ widget: featurette
 
-A Skills section created with the Featurette widget.
+ # This file represents a page section.
+ headless: true
 
-widget = "featurette" # See https://sourcethemes.com/academic/docs/page-builder/ headless = true # This file represents a page section. active = true # Activate this widget? true/false weight = 30 # Order that this section will appear.
+ # Order that this section appears on the page.
+ weight: 30
 
-title = "Skills" subtitle = ""
+ title: Skills
+ subtitle:
 
-Showcase personal skills or business features.
+ # Showcase personal skills or business features.
+ # - Add/remove as many `feature` blocks below as you like.
+ # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
+ feature:
+ - 
+   icon: python
+   icon_pack: fab
+   name: Python
+ - icon: chart-line
+   icon_pack: fas
+   name: Data Visualization
+ - 
+   icon: chalkboard-teacher
+   icon_pack: fas
+   name: Presenting
 
-Add/remove as many [[feature]] blocks below as you like.
+ # Uncomment to use emoji icons.
+ #- icon: ":smile:"
+ #  icon_pack: "emoji"
+ #  name: "Emojiness"
+ #  description: "100%"  
 
-For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-
-
-[[feature]] icon = "python" icon_pack = "fab" name = "Python" description = ""
-
-[[feature]] icon = "chart-line" icon_pack = "fas" name = "Data Visualization" description = ""
-
-[[feature]] icon = "chalkboard-teacher" icon_pack = "fas" name = "Presenting" description = ""
-
-Uncomment to use emoji icons.
-
-[[feature]]
-
-icon = "😄"
-
-icon_pack = "emoji"
-
-name = "Emojiness"
-
-description = "100%"
-
-Uncomment to use custom SVG icons.
-
-Place custom SVG icon in assets/images/icon-pack/, creating folders if necessary.
-
-Reference the SVG icon name (without .svg extension) in the icon field.
-
-[[feature]]
-
-icon = "your-custom-icon-name"
-
-icon_pack = "custom"
-
-name = "Surfing"
-
-description = "90%"
-
-+++
+ # Uncomment to use custom SVG icons.
+ # Place your custom SVG icon in `assets/media/icons/`.
+ # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
+ # For example, reference `assets/media/icons/xyz.svg` as `icon: 'xyz'`
+ #- icon: "your-custom-icon-name"
+ #  icon_pack: "custom"
+ #  name: "Surfing"
+ #  description: "90%"
+ ---
