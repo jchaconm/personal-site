@@ -27,15 +27,12 @@ organizations:
     url: https://www.urp.edu.pe
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Application Development with Artificial Intelligence Specialization
+      institution: Pontifical Catholic University of Peru
+      year: 2021
+    - course: BSc in Computer Engineering
+      institution: Ricardo Palma University
+      year: 2018
 superuser: true
 highlight_name: true
 title: José Chacón Mejía
