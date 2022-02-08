@@ -1,6 +1,6 @@
 ---
 role: BSc in Computer Engineering
-avatar_filename: img_2495.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed Natural Language Processing,
   Computer Vision and Audio Processing.
 interests:
