@@ -8,5 +8,5 @@ active: true
 author: admin
 design:
   background:
-    image: img_2495-2.jpg
+    image: ""
 ---
