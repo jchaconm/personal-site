@@ -16,15 +16,13 @@
  # - Add/remove as many `feature` blocks below as you like.
  # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
  feature:
- - 
-   icon: python
+ - icon: python
    icon_pack: fab
    name: Python
  - icon: chart-line
    icon_pack: fas
    name: Data Visualization
- - 
-   icon: chalkboard-teacher
+ - icon: chalkboard-teacher
    icon_pack: fas
    name: Presenting
 
