@@ -43,6 +43,5 @@ email: ""
 ---
 José Chacón is a Computer Engineer. His research interests include Natural Language Processing, Computer Vision, Audio Processing and Computer Music. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/JOSE CHACON RESUME.pdf" "newtab" >}}resumé{{< /staticref >}}.
