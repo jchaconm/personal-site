@@ -1,7 +1,8 @@
 ---
-# Homepage
 type: widget_page
-
-# Homepage is headless, other widget pages are not.
+widget: " "
+widget_id: " "
 headless: true
+weight: 0
+title: José Chacón
 ---
