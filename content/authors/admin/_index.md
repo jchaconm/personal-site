@@ -17,12 +17,14 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
+  - display:
+      header: false
+    link: https://github.com/jchaconm
+    icon_pack: fab
+    icon: github
 organizations:
   - name: Ricardo Palma University
     url: https://www.urp.edu.pe
