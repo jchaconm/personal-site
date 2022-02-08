@@ -4,9 +4,9 @@ avatar_filename: avatar.jpg
 bio: My research interests include distributed Natural Language Processing,
   Computer Vision and Audio Processing.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Natural Language Processing
+  - Computer Music
+  - Audio Processing
 social:
   - icon: envelope
     icon_pack: fas
