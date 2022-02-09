@@ -31,7 +31,7 @@ item:
   organization_url: https://academy.neuromatch.io
   title: Deep Learning Interactive Track
   url: https://deeplearning.neuromatch.io/tutorials/intro.html
-- certificate_url: https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~BGS6HM7TDURF/CERTIFICATE_LANDING_PAGE~BGS6HM7TDURF.jpeg
+- certificate_url: ""
   date_end: ""
   date_start: "2021-05-28"
   description: ""
