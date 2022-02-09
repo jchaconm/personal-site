@@ -25,7 +25,7 @@ experience:
   - title: Solution Analyst
     company: NTT DATA EMEAL
     company_url: ''
-    company_logo: nttdata.jpeg
+    company_logo: ''
     location: Lima
     date_start: '2021-01-04'
     date_end: ''
