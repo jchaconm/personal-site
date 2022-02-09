@@ -38,7 +38,7 @@ highlight_name: true
 title: José Chacón Mejía
 email: ""
 ---
-José Chacón is a Computer Engineer. His research interests include Natural Language Processing, Computer Vision, Audio Processing and Computer Music. 
+José Chacón is a Computer Engineer. Recently, he's been interested in exploring Machine Learning fields in order to build applications that could make a positive impact in society. His research interests include propaganda and fake news detection, Pose Estimation, Audio Processing and Music Generation.Outside of his field, José is passionate about collecting music , action figures and attending to concerts. 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/JOSE CHACON RESUME.pdf" "newtab" >}}resumé{{< /staticref >}}.
