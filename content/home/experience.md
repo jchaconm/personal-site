@@ -36,14 +36,29 @@ experience:
         * Managing Data Engineering tools on Azure to fulfill the requirement of having continuous flow of data and better accessibility of data for Factoring service current workflows.
         * Analyzing the reimbursement process involving worksheets associated to Factoring services in order to design a new system that could replace the legacy system that is being used in production.
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Solution Developer
+    company: ITSIGHT SAC
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
+    company_logo: ''
+    location: Lima
+    date_start: '2019-05-20'
     date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: |2-
+      
+        * Developed the 100% of backend components for JITZONE, a platform that offers freight transportation services. Implemented geolocation tracking and cross-messaging solution for user devices, reducing API calls by 30% compared to previous implementation.
+        * Maintained web applications in production, such as a biometric based solution for a Peru's governmental institution and an B2C platform for electronic payments.In both applications reduced SLOC by 20% while maintaining performance.
+
+  - title: Practitioner Analyst
+    company: AMERICA MOVIL PERU SAC
+    company_url: ''
+    company_logo: ''
+    location: Lima
+    date_start: '2017-02-27'
+    date_end: '2018-08-17'
+    description: |2-
+        
+        * Automated ETL processes for prepaid and postpaid telephony services that fed Analytical Reports.
+        * Refactored ETL process for metric generation for prepaid line and mobile traffic consumption, reducing data load time by 25%.
 
 design:
   columns: '2'
