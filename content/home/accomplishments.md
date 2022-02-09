@@ -47,7 +47,7 @@ item:
   description: ""
   organization: edX
   organization_url: https://www.edx.org
-  title: 6.00.1x: Introduction to Computer Science and Programming Using Python
+  title: 6.00.1 Introduction to Computer Science and Programming Using Python
   url: https://www.edx.org/es/course/introduction-to-computer-science-and-programming-7
 
 design:
