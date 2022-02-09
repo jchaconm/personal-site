@@ -31,22 +31,6 @@ item:
   organization_url: https://academy.neuromatch.io
   title: Deep Learning Interactive Track
   url: https://deeplearning.neuromatch.io/tutorials/intro.html
-- certificate_url: ""
-  date_end: ""
-  date_start: "2021-05-28"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Natural Language Processing with Classification and Vector Spaces - DeepLearning.AI
-  url: https://www.coursera.org/learn/classification-vector-spaces-in-nlp
-- certificate_url: https://courses.edx.org/certificates/ca924b89f0e94411b2349aa847da2b5a
-  date_end: ""
-  date_start: "2020-08-20"
-  description: ""
-  organization: edX
-  organization_url: https://www.edx.org
-  title: 6.00.1x: Introduction to Computer Science and Programming Using Python
-  url: https://www.edx.org/es/course/introduction-to-computer-science-and-programming-7
 
 
 design:
