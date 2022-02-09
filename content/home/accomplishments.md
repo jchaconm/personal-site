@@ -23,30 +23,31 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://portal.neuromatchacademy.org/certificate/b30cad3c-fbdb-4ab9-a51f-525ba160ed61
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2021-08-23"
+  description: ""
+  organization: Neuromatch Academy
+  organization_url: https://academy.neuromatch.io
+  title: Deep Learning Interactive Track
+  url: https://deeplearning.neuromatch.io/tutorials/intro.html
+- certificate_url: https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~BGS6HM7TDURF/CERTIFICATE_LANDING_PAGE~BGS6HM7TDURF.jpeg
+  date_end: ""
+  date_start: "2021-05-28"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  title: Natural Language Processing with Classification and Vector Spaces - DeepLearning.AI
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: https://courses.edx.org/certificates/ca924b89f0e94411b2349aa847da2b5a
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
+  date_start: "2020-08-20"
+  description: ""
   organization: edX
   organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
+  title: 6.00.1x: Introduction to Computer Science and Programming Using Python
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+
 
 design:
   columns: '2' 
